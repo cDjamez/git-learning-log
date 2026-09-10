@@ -6,3 +6,5 @@
 
  ## What I Learned Today
 - Git tracks changes to files over time
+## What points stood out 
+- Git tracks changes to files over time and commits all changes
